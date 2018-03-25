@@ -1,2 +1,2 @@
-# ex-infosec-qa
-FreeCodeCamp Inormation security section
+# Free Code Camp - Applied InfoSec Challenges
+=============================================
